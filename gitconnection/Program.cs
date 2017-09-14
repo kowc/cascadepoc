@@ -14,6 +14,7 @@ namespace gitconnection
             Console.WriteLine(st);
             Console.WriteLine(st.ToUpper());//changes
             Console.WriteLine(st.Length);//changes
+			String kt= Console.ReadLine().ToString();
             Console.ReadKey();
         }
     }
