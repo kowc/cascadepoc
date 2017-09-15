@@ -13,7 +13,8 @@ namespace gitconnection
            String st= Console.ReadLine().ToString();
             Console.WriteLine(st);
             Console.WriteLine(st.ToUpper());//changes
-            Console.WriteLine(st.Length);//changes
+Console.WriteLine("HOping for the best");            
+Console.WriteLine(st.Length);//changes
             Console.ReadKey();
         }
     }
